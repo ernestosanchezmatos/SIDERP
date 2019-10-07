@@ -1,0 +1,18 @@
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Domain\bin\Debug\netstandard2.0\App_19k.Domain.deps.json
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Domain\bin\Debug\netstandard2.0\App_19k.Domain.dll
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Domain\bin\Debug\netstandard2.0\App_19k.Domain.pdb
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Domain\obj\Debug\netstandard2.0\App_19k.Domain.csproj.CoreCompileInputs.cache
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Domain\obj\Debug\netstandard2.0\App_19k.Domain.AssemblyInfoInputs.cache
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Domain\obj\Debug\netstandard2.0\App_19k.Domain.AssemblyInfo.cs
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Domain\obj\Debug\netstandard2.0\App_19k.Domain.dll
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Domain\obj\Debug\netstandard2.0\App_19k.Domain.pdb
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Domain\obj\Debug\netstandard2.0\App_19k.Domain.csprojAssemblyReference.cache
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Domain\bin\Debug\netstandard2.0\App_19k.Domain.deps.json
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Domain\bin\Debug\netstandard2.0\App_19k.Domain.dll
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Domain\bin\Debug\netstandard2.0\App_19k.Domain.pdb
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Domain\obj\Debug\netstandard2.0\App_19k.Domain.csproj.CoreCompileInputs.cache
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Domain\obj\Debug\netstandard2.0\App_19k.Domain.AssemblyInfoInputs.cache
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Domain\obj\Debug\netstandard2.0\App_19k.Domain.AssemblyInfo.cs
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Domain\obj\Debug\netstandard2.0\App_19k.Domain.dll
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Domain\obj\Debug\netstandard2.0\App_19k.Domain.pdb
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Domain\obj\Debug\netstandard2.0\App_19k.Domain.csprojAssemblyReference.cache

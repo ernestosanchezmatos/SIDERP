@@ -1,0 +1,42 @@
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Api\bin\Debug\netcoreapp2.2\App_19k.Api.deps.json
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Api\bin\Debug\netcoreapp2.2\App_19k.Api.runtimeconfig.json
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Api\bin\Debug\netcoreapp2.2\App_19k.Api.runtimeconfig.dev.json
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Api\bin\Debug\netcoreapp2.2\App_19k.Api.dll
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Api\bin\Debug\netcoreapp2.2\App_19k.Api.pdb
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Api\bin\Debug\netcoreapp2.2\App_19k.Domain.dll
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Api\bin\Debug\netcoreapp2.2\App_19k.Repository.dll
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Api\bin\Debug\netcoreapp2.2\App_19k.Service.dll
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Api\bin\Debug\netcoreapp2.2\App_19k.Domain.pdb
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Api\bin\Debug\netcoreapp2.2\App_19k.Service.pdb
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Api\bin\Debug\netcoreapp2.2\App_19k.Repository.pdb
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Api\obj\Debug\netcoreapp2.2\App_19k.Api.csprojAssemblyReference.cache
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Api\obj\Debug\netcoreapp2.2\App_19k.Api.csproj.CoreCompileInputs.cache
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Api\obj\Debug\netcoreapp2.2\App_19k.Api.RazorAssemblyInfo.cache
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Api\obj\Debug\netcoreapp2.2\App_19k.Api.RazorAssemblyInfo.cs
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Api\obj\Debug\netcoreapp2.2\App_19k.Api.AssemblyInfoInputs.cache
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Api\obj\Debug\netcoreapp2.2\App_19k.Api.AssemblyInfo.cs
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Api\obj\Debug\netcoreapp2.2\App_19k.Api.RazorTargetAssemblyInfo.cache
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Api\obj\Debug\netcoreapp2.2\App_19k.Api.csproj.CopyComplete
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Api\obj\Debug\netcoreapp2.2\App_19k.Api.dll
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Api\obj\Debug\netcoreapp2.2\App_19k.Api.pdb
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Api\bin\Debug\netcoreapp2.2\App_19k.Api.deps.json
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Api\bin\Debug\netcoreapp2.2\App_19k.Api.runtimeconfig.json
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Api\bin\Debug\netcoreapp2.2\App_19k.Api.runtimeconfig.dev.json
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Api\bin\Debug\netcoreapp2.2\App_19k.Api.dll
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Api\bin\Debug\netcoreapp2.2\App_19k.Api.pdb
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Api\bin\Debug\netcoreapp2.2\App_19k.Domain.dll
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Api\bin\Debug\netcoreapp2.2\App_19k.Repository.dll
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Api\bin\Debug\netcoreapp2.2\App_19k.Service.dll
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Api\bin\Debug\netcoreapp2.2\App_19k.Domain.pdb
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Api\bin\Debug\netcoreapp2.2\App_19k.Service.pdb
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Api\bin\Debug\netcoreapp2.2\App_19k.Repository.pdb
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Api\obj\Debug\netcoreapp2.2\App_19k.Api.csprojAssemblyReference.cache
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Api\obj\Debug\netcoreapp2.2\App_19k.Api.csproj.CoreCompileInputs.cache
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Api\obj\Debug\netcoreapp2.2\App_19k.Api.RazorAssemblyInfo.cache
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Api\obj\Debug\netcoreapp2.2\App_19k.Api.RazorAssemblyInfo.cs
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Api\obj\Debug\netcoreapp2.2\App_19k.Api.AssemblyInfoInputs.cache
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Api\obj\Debug\netcoreapp2.2\App_19k.Api.AssemblyInfo.cs
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Api\obj\Debug\netcoreapp2.2\App_19k.Api.RazorTargetAssemblyInfo.cache
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Api\obj\Debug\netcoreapp2.2\App_19k.Api.csproj.CopyComplete
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Api\obj\Debug\netcoreapp2.2\App_19k.Api.dll
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Api\obj\Debug\netcoreapp2.2\App_19k.Api.pdb

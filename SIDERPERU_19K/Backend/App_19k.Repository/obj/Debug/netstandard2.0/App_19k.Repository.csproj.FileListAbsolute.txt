@@ -1,0 +1,24 @@
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Repository\bin\Debug\netstandard2.0\App_19k.Repository.deps.json
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Repository\bin\Debug\netstandard2.0\App_19k.Repository.dll
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Repository\bin\Debug\netstandard2.0\App_19k.Repository.pdb
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Repository\bin\Debug\netstandard2.0\App_19k.Domain.dll
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Repository\bin\Debug\netstandard2.0\App_19k.Domain.pdb
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Repository\obj\Debug\netstandard2.0\App_19k.Repository.csprojAssemblyReference.cache
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Repository\obj\Debug\netstandard2.0\App_19k.Repository.csproj.CoreCompileInputs.cache
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Repository\obj\Debug\netstandard2.0\App_19k.Repository.AssemblyInfoInputs.cache
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Repository\obj\Debug\netstandard2.0\App_19k.Repository.AssemblyInfo.cs
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Repository\obj\Debug\netstandard2.0\App_19k.Repository.csproj.CopyComplete
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Repository\obj\Debug\netstandard2.0\App_19k.Repository.dll
+C:\SiderPerú\Proyecto\SIDERPERU_19K\Backend\App_19k.Repository\obj\Debug\netstandard2.0\App_19k.Repository.pdb
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Repository\bin\Debug\netstandard2.0\App_19k.Repository.deps.json
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Repository\bin\Debug\netstandard2.0\App_19k.Repository.dll
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Repository\bin\Debug\netstandard2.0\App_19k.Repository.pdb
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Repository\bin\Debug\netstandard2.0\App_19k.Domain.dll
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Repository\bin\Debug\netstandard2.0\App_19k.Domain.pdb
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Repository\obj\Debug\netstandard2.0\App_19k.Repository.csprojAssemblyReference.cache
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Repository\obj\Debug\netstandard2.0\App_19k.Repository.csproj.CoreCompileInputs.cache
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Repository\obj\Debug\netstandard2.0\App_19k.Repository.AssemblyInfoInputs.cache
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Repository\obj\Debug\netstandard2.0\App_19k.Repository.AssemblyInfo.cs
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Repository\obj\Debug\netstandard2.0\App_19k.Repository.csproj.CopyComplete
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Repository\obj\Debug\netstandard2.0\App_19k.Repository.dll
+D:\REPOSITORIOS DE GITHUB\SIDERPERU\SIDERPERU_19K\Backend\App_19k.Repository\obj\Debug\netstandard2.0\App_19k.Repository.pdb
